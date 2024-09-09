@@ -21,7 +21,7 @@ Com uma interface simples e intuitiva, você pode pesquisar por qualquer técnic
 
 ### **Como Usar Este Projeto**
 
-1. **Clone o repositório:** `git clone https://seu-repositorio.git`
+1. **Clone o repositório:** `git clone https://github.com/rafarodriguero/imersaoDevAluraGemini`
 2. **Abra o index.html:** Abra o arquivo `index.html` em seu navegador favorito.
 3. **Comece a explorar:** Divirta-se aprendendo tudo sobre mergulho!
 
@@ -43,7 +43,7 @@ Agradeço a todos que contribuíram para este projeto!
 
 **Observações:**
 
-* **Substitua "https://seu-repositorio.git" pelo link do seu repositório no GitHub.**
+* **Substitua "https://github.com/rafarodriguero/imersaoDevAluraGemini" pelo link do seu repositório no GitHub.**
 * **Adicione mais detalhes sobre o projeto, como as tecnologias específicas utilizadas, a estrutura de pastas, etc.**
 * **Personalize o README com sua própria voz e estilo.**
 
